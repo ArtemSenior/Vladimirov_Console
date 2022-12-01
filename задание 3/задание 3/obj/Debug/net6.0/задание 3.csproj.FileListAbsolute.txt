@@ -1,0 +1,30 @@
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.csproj.AssemblyReference.cache
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.AssemblyInfoInputs.cache
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.AssemblyInfo.cs
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.csproj.CoreCompileInputs.cache
+C:\Users\79190\Desktop\задание 3\задание 3\bin\Debug\net6.0\задание 3.exe
+C:\Users\79190\Desktop\задание 3\задание 3\bin\Debug\net6.0\задание 3.deps.json
+C:\Users\79190\Desktop\задание 3\задание 3\bin\Debug\net6.0\задание 3.runtimeconfig.json
+C:\Users\79190\Desktop\задание 3\задание 3\bin\Debug\net6.0\задание 3.dll
+C:\Users\79190\Desktop\задание 3\задание 3\bin\Debug\net6.0\задание 3.pdb
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.dll
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\refint\задание 3.dll
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.pdb
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\задание 3.genruntimeconfig.cache
+C:\Users\79190\Desktop\задание 3\задание 3\obj\Debug\net6.0\ref\задание 3.dll
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\bin\Debug\net6.0\задание 3.exe
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\bin\Debug\net6.0\задание 3.deps.json
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\bin\Debug\net6.0\задание 3.runtimeconfig.json
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\bin\Debug\net6.0\задание 3.dll
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\bin\Debug\net6.0\задание 3.pdb
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.csproj.AssemblyReference.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.AssemblyInfoInputs.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.AssemblyInfo.cs
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.dll
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\refint\задание 3.dll
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.pdb
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\задание 3.genruntimeconfig.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Console2\задание 3\задание 3\obj\Debug\net6.0\ref\задание 3.dll
