@@ -1,0 +1,14 @@
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\bin\Debug\netcoreapp3.1\CНеделя2_Задание4_2.exe
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\bin\Debug\netcoreapp3.1\CНеделя2_Задание4_2.deps.json
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\bin\Debug\netcoreapp3.1\CНеделя2_Задание4_2.runtimeconfig.json
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\bin\Debug\netcoreapp3.1\CНеделя2_Задание4_2.runtimeconfig.dev.json
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\bin\Debug\netcoreapp3.1\CНеделя2_Задание4_2.dll
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\bin\Debug\netcoreapp3.1\CНеделя2_Задание4_2.pdb
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.AssemblyInfoInputs.cache
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.AssemblyInfo.cs
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.dll
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.pdb
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.genruntimeconfig.cache
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.csproj.AssemblyReference.cache
+E:\ПРАКТИКА\Неделя 2\CНеделя2_Задание4_2\CНеделя2_Задание4_2\obj\Debug\netcoreapp3.1\CНеделя2_Задание4_2.GeneratedMSBuildEditorConfig.editorconfig
