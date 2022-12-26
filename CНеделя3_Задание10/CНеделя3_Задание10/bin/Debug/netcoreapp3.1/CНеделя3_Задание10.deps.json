@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CНеделя3_Задание10/1.0.0": {
+        "runtime": {
+          "CНеделя3_Задание10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CНеделя3_Задание10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

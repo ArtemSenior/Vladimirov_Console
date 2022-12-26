@@ -1,0 +1,3 @@
+rectangle 2 2
+сircle 5
+triangle 5 5 5

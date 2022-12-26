@@ -1,0 +1,14 @@
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\bin\Debug\netcoreapp3.1\CНеделя3_Задание10.exe
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\bin\Debug\netcoreapp3.1\CНеделя3_Задание10.deps.json
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\bin\Debug\netcoreapp3.1\CНеделя3_Задание10.runtimeconfig.json
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\bin\Debug\netcoreapp3.1\CНеделя3_Задание10.runtimeconfig.dev.json
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\bin\Debug\netcoreapp3.1\CНеделя3_Задание10.dll
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\bin\Debug\netcoreapp3.1\CНеделя3_Задание10.pdb
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.AssemblyInfoInputs.cache
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.AssemblyInfo.cs
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.dll
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.pdb
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.genruntimeconfig.cache
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.csproj.AssemblyReference.cache
+E:\ПРАКТИКА\Неделя 3\CНеделя3_Задание10\CНеделя3_Задание10\obj\Debug\netcoreapp3.1\CНеделя3_Задание10.GeneratedMSBuildEditorConfig.editorconfig
